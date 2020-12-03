@@ -10,67 +10,12 @@ For more info, visit [Instabug.com](https://www.instabug.com).
 
 ## Installation
 
-### CocoaPods
+### SPM
 
-To integrate Instabug into your Xcode project using [CocoaPods](https://cocoapods.org), add it to your `Podfile`:
-
-```ruby
-pod 'Instabug'
-```
-
-Then, run the following command:
-
-```bash
-$ pod install
-```
-
-### Carthage
-
-To integrate Instabug into your Xcode project using [Carthage](https://github.com/Carthage/Carthage), add it to your `Cartfile`:
-
-```
-binary "https://raw.githubusercontent.com/Instabug/Instabug-SP/master/Instabug.json"
-```
-
-Then, run the following command:
-
-```bash
-$ carthage update
-```
-
-Then drag Instabug.framework into your Xcode project.
-
-### Manually
-
-1. [Download the Instabug SDK](https://s3.amazonaws.com/instabug-pro/sdk_releases/Instabug.zip)
-
-2. Extract it then drag & drop Instabug.framework to your project's "Embedded Binaries" section under the "General" tab, and make sure that the "Copy items if needed" checkbox is checked
-
-3. Create a new "Run Script Phase" in your project’s target "Build Phases" and add the following snippet
-
-```
-bash "${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}/Instabug.framework/strip-frameworks.sh"
-```
-4. In Xcode 11.x you might get the following error:
-```
-dyld: Library not loaded: @rpath/Instabug.framework/Instabug
-Reason: image not found
-```
-If that's the case, do the following steps:
-- Under Build Phases, click on + icon to add new phase, and select New Copy Files Phase.
-
-- Drag the newly created Copy Files phase above Compile Sources phase
-
-- In the new Copy Files phase, select Frameworks from Destination dropdown.
-
-- Leave subpath blank. Let be default Copy only when installing.
-
-- Under the table, click '+' and then select `Instabug.framework`
-
-- Make sure `Code Sign on Copy` is checked (ticked).
-
-- Do a clean build.
-
+1. Open project target.
+2. Select Swift packages
+3. Add New package and paste https://github.com/Instabug/Instabug-SP
+4. Make sure to be on the latest.
 
 
 ## Usage
