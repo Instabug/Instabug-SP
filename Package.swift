@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Instabug",
-            url: "https://ios-releases.instabug.com/release/10.7.4/archive.zip",
-            checksum: "7d332f8b953d8635fb034e011de7d28e6bef0deb98123fc9e4bdf5789dbec16d")
+            url: "https://ios-releases.instabug.com/custom/fix-bump-xcode/archive.zip",
+            checksum: "3e277d8560ccdf1e8d8da7ad14ce7f35a2f60ceb0ed01d5502c94cf387805a3c")
     ]
 )
