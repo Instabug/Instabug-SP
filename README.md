@@ -1,6 +1,9 @@
 # Instabug iOS SDK
 ![CocoaPods Compatible](https://img.shields.io/cocoapods/v/Instabug.svg)
 ![Twitter](https://img.shields.io/badge/twitter-@Instabug-blue.svg)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FInstabug%2FInstabug-SP%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/Instabug/Instabug-SP)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FInstabug%2FInstabug-SP%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/Instabug/Instabug-SP)
+
 
 Instabug is an in-app feedback and bug reporting tool for mobile apps. With just a simple shake, your users or beta testers can [report bugs](https://instabug.com/bug-reporting) or send in-app feedback and the SDK will capture an environment snapshot of your user's device including all console logs, [server-side network requests](https://instabug.com/network-logging) and bug reproduction steps compiling all these details in one organised dashboard to help you debug and fix bugs faster. 
 
