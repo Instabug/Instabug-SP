@@ -1,5 +1,4 @@
 # Instabug iOS SDK
-![CocoaPods Compatible](https://img.shields.io/cocoapods/v/Instabug.svg)
 ![Twitter](https://img.shields.io/badge/twitter-@Instabug-blue.svg)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FInstabug%2FInstabug-SP%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/Instabug/Instabug-SP)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FInstabug%2FInstabug-SP%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/Instabug/Instabug-SP)
