@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Instabug",
-            url: "https://ios-releases.instabug.com/release/Instabug/11.1.0/archive.zip",
-            checksum: "9b7bf1b5955a5c9e2dddbbc87f9b74345ff6bcfb6793a045750178b6ada4725c")
+            url: "https://ios-releases.instabug.com/custom_spm/fix-keyboard_filling_wrong_field_bug/11.1.0/Instabug/archive.zip",
+            checksum: "ba3878b509d2376456245a16fbec0c5528ed4936acfc32b1a4043f71d93f6fcf")
     ]
 )
