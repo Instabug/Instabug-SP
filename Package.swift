@@ -14,6 +14,6 @@ let package = Package(
         .binaryTarget(
             name: "Instabug",
             url: "https://ios-releases.instabug.com/custom_spm/gojek_minified_version_11_3/11.3.0/Instabug/archive.zip",
-            checksum: "0d0696f0ed4d4482002df0e149f4a0ddeefdb80015f152dc3c23d8a143c38070")
+            checksum: "75a28f054445e3c03136f9e32774429386b0adc03f8b4b46756a496f397107cd")
     ]
 )
