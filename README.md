@@ -19,6 +19,10 @@ For more info, visit [Instabug.com](https://www.instabug.com).
 3. Add New package and paste https://github.com/Instabug/Instabug-SP
 4. Make sure to be on the latest.
 
+### Other
+
+Please refer to https://github.com/Instabug/Instabug-iOS for more installation methods
+
 
 ## Usage
 
