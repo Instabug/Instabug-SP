@@ -14,6 +14,6 @@ let package = Package(
         .binaryTarget(
             name: "Instabug",
             url: "https://ios-releases.instabug.com/custom_spm/debug-missing_network_spans/14.2.0/Instabug/archive.zip",
-            checksum: "aa1a52c40b0d06148929c78568171b7632d8edd36c1e5fd483ad8409e142a2b5")
+            checksum: "8d30846ded26045d350d25650d7a8c63834c1d82fb11bb5dab89f91d68100353")
     ]
 )
