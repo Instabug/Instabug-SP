@@ -14,6 +14,6 @@ let package = Package(
         .binaryTarget(
             name: "Instabug",
             url: "https://ios-releases.instabug.com/custom_spm/faeture-screen_rendering-release/15.1.14/Instabug/archive.zip",
-            checksum: "b887a16cad5c6756d984032bff8b79ff44331c48019e12f7bb8f487e1844bb3a")
+            checksum: "14177a183887875a91468f2241e1441d4d9c1e7245faf0d2f84d33f5e7f5c426")
     ]
 )
