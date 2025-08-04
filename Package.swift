@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Instabug",
-            url: "https://github.com/Instabug/Instabug-SP/releases/download/15.1.1/Instabug-XCFramework.zip",
-            checksum: "d8a70e21247a0feca1a84090f09ec35de9789b57a3076ea39486a09be8b98b75")
+            url: "https://ios-releases.instabug.com/custom_spm/epi-europe/15.1.1/Instabug/archive.zip",
+            checksum: "5d37de2c1a7678ad470c55a01fd5053e0b2ea2bb87f5c36e034e4d302db41d97")
     ]
 )
