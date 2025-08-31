@@ -14,6 +14,6 @@ let package = Package(
         .binaryTarget(
             name: "Instabug",
             url: "https://ios-releases.instabug.com/custom_spm/fix-webviews-crash/16.0.2/Instabug/archive.zip",
-            checksum: "9f09a41095826d5286fdc1d0c7a2c55b7f1c18f2d00b1a5eccd1b38d9f3d058f")
+            checksum: "7fd475cb9beba9ba4008ed2d058d0b16225ede318975719f259676ec148d62e7")
     ]
 )
