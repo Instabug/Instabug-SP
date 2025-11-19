@@ -1,3 +1,13 @@
+> ⚠️ **Repository Archived**
+>
+> This SDK has been rebranded from **Instabug** to **Luciq**.
+>
+> The new repo can be found [here →](https://github.com/luciqai/luciq-ios-sdk)
+>
+> This repository is no longer maintained.
+> You can also check out our [Migration Guide](https://docs.luciq.ai/docs/ios-luciq-migration) for more detailed information about how to migrate to the new SDK.
+
+
 # Instabug iOS SDK
 ![Twitter](https://img.shields.io/badge/twitter-@Instabug-blue.svg)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FInstabug%2FInstabug-SP%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/Instabug/Instabug-SP)
